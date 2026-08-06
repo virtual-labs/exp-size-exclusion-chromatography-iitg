@@ -2,37 +2,173 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which of the following is a type of adsorption chromatography?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Thin layer chromatography",
+        "b": "Paper chromatography",
+        "c": "Gas-liquid chromatography",
+        "d": "Affinity chromatography"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following technique is best suited for purifying native protein isolated from muscle cells?",
+      "answers": {
+        "a": "GST-tag chromatography",
+        "b": "Blue sepharose chromatography",
+        "c": "S-tag chromatography column",
+        "d": "His-tagged column"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The chromatography technique employs separation of molecules based on electrostatic interaction is",
+      "answers": {
+        "a": "Ion exchange chromatography",
+        "b": "Hydrophobic interaction chromatography",
+        "c": "Size exclusion chromatography",
+        "d": "Partition chromatography"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Purification of a tagged protein 'X' expressed in E. coli can be achieved by",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Size exclusion chromatography",
+        "b": "Hydrophobic interaction chromatography",
+        "c": "Ion exchange chromatography only",
+        "d": "Affinity chromatography"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In an anion exchange chromatography, the matrix is",
+      "answers": {
+        "a": "Positively charged",
+        "b": "Negatively charged",
+        "c": "Neutral",
+        "d": "Both positively and negatively charged"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In hydrophobic interaction chromatography",
+      "answers": {
+        "a": "The hydrophobic groups present on matrix interact with charged groups on the target proteins.",
+        "b": "The hydrophobic patches on the analyte interact with hydrophobic groups on the matrix.",
+        "c": "Specific interaction between substrate and enzyme occurs.",
+        "d": "The salt concentration of the equilibration buffer should be above the salting out effect."
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "'Salting-in' is the process in which",
+      "answers": {
+        "a": "Salt decreases the solubility of protein",
+        "b": "Salt induces protein precipitation",
+        "c": "Salt exposes hydrophobic group of proteins",
+        "d": "Salt increases the solubility of protein"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The interaction of proteins with HIC column involves:",
+      "answers": {
+        "a": "Ionic interactions",
+        "b": "Covalent interactions",
+        "c": "Hydrogen bonding",
+        "d": "Hydrophobic interactions"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The use of high salt concentration for binding of proteins into an HIC column is based on the principle that:",
+      "answers": {
+        "a": "High salt concentration precipitates the proteins which stick into the column matrix",
+        "b": "High salt concentration removes hydration layer of the proteins and exposes their hydrophobic residues",
+        "c": "High salt concentration removes small molecular weight proteins that interfere with binding",
+        "d": "High salt concentration helps protein in forming hydrogen bonding with the column matrix"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Elution of bound protein from HIC can be achieved by",
+      "answers": {
+        "a": "By changing the pH",
+        "b": "By decreasing salt concentration",
+        "c": "By increasing salt concentration",
+        "d": "With guanidine hydrochloride"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
