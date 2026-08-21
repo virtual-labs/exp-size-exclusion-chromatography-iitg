@@ -1,0 +1,10 @@
+
+/home/runner/work/exp-size-exclusion-chromatography-iitg/exp-size-exclusion-chromatography-iitg/experiment/simulation/js/main.js
+    58:7   warning  'fmtClock' is assigned a value but never used    no-unused-vars
+   586:9   warning  'testReveal' is assigned a value but never used  no-unused-vars
+  1078:28  warning  'j' is defined but never used                    no-unused-vars
+  1125:7   warning  'DeterminationPhase' is defined but never used   no-unused-vars
+  1322:21  warning  's' is assigned a value but never used           no-unused-vars
+
+✖ 5 problems (0 errors, 5 warnings)
+

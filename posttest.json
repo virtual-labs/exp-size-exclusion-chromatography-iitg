@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The Kd of the following proteins are given below: Protein A = 2, Protein X = 6, Protein Z = 9, Protein Y = 4. If the mixture of these proteins will be loaded onto a chromatography column, the protein eluting at last will be",
+      "answers": {
+        "a": "Protein A",
+        "b": "Protein Z",
+        "c": "Protein X",
+        "d": "Protein Y"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The increase in height of distribution plane (H) will result in which of the following results?",
+      "answers": {
+        "a": "Increase in resolution of the column",
+        "b": "Decrease in resolution of the column",
+        "c": "Resolution depends on the height of the column and thus no change is observed",
+        "d": "Increase in number of distribution planes (N)"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Sodium azide is used in column chromatography as it helps to",
+      "answers": {
+        "a": "Prevent microbial growth while storing the column.",
+        "b": "Remove non-specifically bound proteins.",
+        "c": "Wash the columns after elution.",
+        "d": "Equilibrate the column."
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The chromatographic technique used to separate analytes based on their size is",
+      "answers": {
+        "a": "Ion-exchange chromatography",
+        "b": "Gel filtration chromatography",
+        "c": "Affinity chromatography",
+        "d": "Hydrophobic interaction chromatography"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A gel filtration column was equilibrated with 50 mM Tris pH 7.5 containing 100 mM NaCl. The void volume of the column is 7 ml and the total volume is 25 ml. The column was calibrated with proteins A (10 kDa, Kd 0.44), B (30 kDa, Kd 0.38), C (50 kDa, Kd 0.33) and D (70 kDa, Kd 0.27). The unknown protein 'X' in the same column eluted at 12.56 ml. Based on the given data, the molecular weight (in kDa) of unknown protein 'X' will be",
+      "answers": {
+        "a": "~67",
+        "b": "~55",
+        "c": "~45",
+        "d": "~22"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following protein elutes first from a size exclusion column? (Consider all proteins are monomeric and in native folded state.)",
+      "answers": {
+        "a": "75 kDa",
+        "b": "62 kDa",
+        "c": "46 kDa",
+        "d": "5 kDa"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "During gel filtration chromatography, the analyte is completely in the pore of the column if ____________.",
+      "answers": {
+        "a": "Kd < 1",
+        "b": "Kd > 1",
+        "c": "Kd = 1",
+        "d": "Kd = 0"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the oligomeric status of a protein if the molecular weight obtained from gel filtration chromatography is 100 kDa and that determined by SDS-PAGE is 50 kDa?",
+      "answers": {
+        "a": "Tetrameric",
+        "b": "Trimeric",
+        "c": "Monomeric",
+        "d": "Dimeric"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A protein has the molecular weight of 500 kDa. Which of the following gel filtration column will be an ideal choice for separating the protein from a mixture?",
+      "answers": {
+        "a": "Sephadex G200",
+        "b": "Sephadex G10",
+        "c": "Sephadex G25",
+        "d": "Sephadex G100"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The partition coefficient, Kd, depends on",
+      "answers": {
+        "a": "Only physical properties of the molecule",
+        "b": "Only chemical properties of the molecule",
+        "c": "Both physical and chemical properties of the molecule",
+        "d": "Is independent of the physical and chemical properties of the molecule"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
