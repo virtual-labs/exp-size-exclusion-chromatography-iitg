@@ -36,3 +36,9 @@ Also, void volume for packed column = **18 ml**
 
 - The void volume of manually packed column is **18 ml**
 - Theoretical volume of manually packed column is **44.38 ml**
+
+---
+
+## Video Demonstration
+
+[![Watch the video](https://img.youtube.com/vi/H0XJ5qk2sD4/maxresdefault.jpg)](https://www.youtube.com/watch?v=H0XJ5qk2sD4)
