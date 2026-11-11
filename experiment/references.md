@@ -6,3 +6,8 @@
 4. Complete guide to thin layer chromatography sample preparation. (2025). _Organomation_.
 5. Reich, E., & Schibli, A. (2007). Densitometry. In _High-Performance Thin-Layer Chromatography for the Analysis of Medicinal Plants_. Georg Thieme Verlag.
 6. Marquardsen, I., Aguirre, K. A., Tshilombo, P. M., & Kozlovski, S. D. (2018). Detection of heavy metals with dithizone-cyclodextrin complex. Roskilde Universitet.
+
+7. Ó Fágáin, C., Cummins, P. M., & O'Connor, B. F. (2017). Methods in Molecular Biology, 1485, 15–25.
+8. Hagel, L. (2001). Current Protocols in Protein Science.
+9. Irvine, G. B. (2001). Determination of Molecular Size by Size-Exclusion Chromatography (Gel Filtration). Current Protocols in Cell Biology, 6, 5.5.1–5.5.16.
+10. Janson, J. C., & Rydén, L. (Eds.). (1998). Protein Purification: Principles, High Resolution Methods, and Applications (2nd ed.). Wiley-VCH.

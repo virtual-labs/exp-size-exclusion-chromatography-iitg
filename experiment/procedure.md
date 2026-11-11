@@ -32,6 +32,18 @@ v = 23.4 × π × (0.777)²
 
 Also, void volume for packed column = **18 ml**
 
+
+The 18 mL void volume is an experimental observation; it cannot be calculated from the column dimensions alone.
+
+| Parameter | Value |
+| --- | ---: |
+| Total column height | 30 cm |
+| Column radius | 0.777 cm |
+| Packed height | 23.4 cm |
+| Total column volume | 57 mL |
+| Geometrical packed-bed volume | 44.38 mL |
+| Measured void volume | 18 mL |
+
 **Result:**
 
 - The void volume of manually packed column is **18 ml**
